@@ -18,5 +18,5 @@ I am interested in understanding cybersecurity from both technical and business 
 This is my first homework report for the Cyber Security course. I am using GitHub and Markdown to create and publish my reports. For example, I can format a command such as `git status` using Markdown code formatting. 
 
 
-References
+## References
 Karvinen, T. (2026). Cyber Security H0 Hello. https://terokarvinen.com/cyber-security/
