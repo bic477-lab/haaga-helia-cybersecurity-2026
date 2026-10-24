@@ -1,5 +1,5 @@
 # H1 – CyberScience
-**Working Notes for Discussion**
+
 
 ## A. Science Hunt
 
@@ -25,7 +25,6 @@ DOI: https://doi.org/10.1145/3785467
 - JUFO Level: 3 (Top Level)
 - Source: Finnish Publication Forum (JUFO Portal)
 
-**Reasons for choosing the article — ideas to express in your own words:**
 
 - It is related to my professional experience with 4G and 5G networks.
 - It is relevant to my master's thesis about the evolution of enterprise connectivity services from 5G to 6G.
@@ -36,7 +35,6 @@ DOI: https://doi.org/10.1145/3785467
 
 ### 1. Key Research Areas
 
-The main areas identified during our discussion are:
 
 - **Evolution of network security:** How security architectures and protocols developed from previous mobile generations toward 6G.
 - **Emerging threats:** Cybersecurity risks associated with AI, autonomous network functions, edge computing and distributed networks.
@@ -45,8 +43,6 @@ The main areas identified during our discussion are:
 - **Standardization:** The role of 3GPP, ITU, GSMA and O-RAN in developing common security requirements.
 
 ### 2. Widely Agreed Findings
-
-Main findings to examine against the reviewed literature:
 
 - Many cybersecurity threats already present in 4G and 5G are expected to continue in future networks.
 - Existing security mechanisms provide an important foundation for 6G, but they require further development.
