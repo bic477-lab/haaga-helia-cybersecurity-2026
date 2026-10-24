@@ -2,7 +2,7 @@
 
 
 ## About Me 
-I am currently studying for an MBA in Business Technologies (Digitalization Management)at Haaga-Helia University of Applied Sciences in Finland. I have over 20 years of professional experience in telecommunications, including technical management and working with 4G and 5G mobile networks. 
+I am currently studying for an MBA in Business Technologies (Digitalization Management) at Haaga-Helia University of Applied Sciences in Finland. I have over 20 years of professional experience in telecommunications, including technical management and working with 4G and 5G mobile networks. 
 My experience includes network integration, technical project coordination, service quality, and network performance. 
 
 
