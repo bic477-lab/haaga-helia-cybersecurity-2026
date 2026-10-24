@@ -64,7 +64,7 @@ Important questions that remain open:
 - How can post-quantum cryptography be introduced without excessive performance and energy costs?
 - How can end-to-end security be assured across different vendors, cloud environments and enterprise applications?
 
-**Our critical perspective:**
+**Critical Reflection:**
 
 One important limitation is the lack of large-scale operational evidence from real 6G networks.
 
