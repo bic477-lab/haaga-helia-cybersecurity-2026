@@ -1,7 +1,7 @@
 # H1 – CyberScience
 
 
-## A. Science Hunt
+## Part A. Science Hunt
 
 ### 1. Search Process
 
@@ -31,16 +31,19 @@ DOI: https://doi.org/10.1145/3785467
 - It examines existing and emerging cybersecurity risks.
 - It discusses not only technical security solutions but also risk management, standardization and industry developments.
 
-## B. Review the Review
+
+
+
+## Part B. Review the Review
 
 ### 1. Key Research Areas
-
 
 - **Evolution of network security:** How security architectures and protocols developed from previous mobile generations toward 6G.
 - **Emerging threats:** Cybersecurity risks associated with AI, autonomous network functions, edge computing and distributed networks.
 - **Privacy protection:** Challenges concerning large-scale data collection, AI models, IoT devices and sensing technologies.
 - **Risk assessment:** Whether existing frameworks can effectively assess the risks of future 6G networks.
 - **Standardization:** The role of 3GPP, ITU, GSMA and O-RAN in developing common security requirements.
+  
 
 ### 2. Widely Agreed Findings
 
@@ -49,6 +52,7 @@ DOI: https://doi.org/10.1145/3785467
 - AI and automation offer opportunities to improve network monitoring and threat detection while introducing new security risks.
 - The growing complexity and distribution of network functions create additional challenges for end-to-end security.
 - Security by Design and collaboration among operators, technology providers, researchers and regulators remain important.
+  
 
 **Critical observation:**
 
@@ -70,7 +74,9 @@ One important limitation is the lack of large-scale operational evidence from re
 
 Existing knowledge from 5G and 5G-Advanced can help identify possible threats. However, accurate estimation of future risks remains difficult because their likelihood and business impact are not yet well established.
 
-## C. Threat Modeling Quickrun
+
+
+## Part C. Threat Modeling Quickrun
 
 ### 1. Company
 
@@ -160,6 +166,7 @@ Possible controls:
 - Test automated functions in controlled environments before wider deployment.
 
 The purpose is to reduce both the probability of incorrect autonomous decisions and their possible business impact.
+
 
 ## References
 
