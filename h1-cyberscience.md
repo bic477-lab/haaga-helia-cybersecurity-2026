@@ -167,4 +167,3 @@ The purpose is to reduce both the probability of incorrect autonomous decisions 
 2. Karvinen, T. (2026). *Cyber Security – H1 CyberScience*. https://terokarvinen.com/cyber-security/
 3. Publication Forum (JUFO). https://jfp.csc.fi/jufoportal
 
-*These are working notes. The final report must be written independently and contain an accurate disclosure of any AI assistance used.*
