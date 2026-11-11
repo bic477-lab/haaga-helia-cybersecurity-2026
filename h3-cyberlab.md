@@ -47,6 +47,7 @@ It will also discuss how these security challenges may evolve towards 6G, partic
 
 The presentation will connect current technologies and practical industry examples with future security requirements.
 
+
 ## B. Debian 13 installation on a virtual machine
 
 ### Configuration and setup
