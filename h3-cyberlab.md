@@ -31,9 +31,21 @@ I read the three assigned articles. ChatGPT helped me turn their main points int
 
 ## A. Presentation title reservation
 
-My name is listed in the course agenda for **2 December 2026**, in the **New developments** session. I am considering the title *AI-Driven Security Challenges in 6G Enterprise Networks*.
+**Presentation Title:** From 5G-Advanced to 6G: Cybersecurity Challenges for Enterprise Networks
 
-**Laksu reservation status:** Not confirmed. Listing in the agenda is not evidence that a presentation title has been reserved.
+**Presentation Date:** 2 December 2026 (Week 49)
+
+**Course Theme:** New Developments
+
+**Reservation:** Completed in Laksu.
+
+**Topic Overview:**
+
+The presentation will focus on current cybersecurity challenges in 5G and 5G-Advanced (5.5G), including network slicing, cloud-native networks, edge computing, and AI-driven network automation.
+
+It will also discuss how these security challenges may evolve towards 6G, particularly for enterprise connectivity services and mobile network operators.
+
+The presentation will connect current technologies and practical industry examples with future security requirements.
 
 ## B. Debian 13 installation on a virtual machine
 
