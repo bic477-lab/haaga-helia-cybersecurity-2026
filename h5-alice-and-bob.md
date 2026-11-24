@@ -54,7 +54,7 @@ All relative paths below are from `~/labs/h5-alice-and-bob`. Private keys, revoc
 
 On 24 November 2026, I used Gmail and LinkedIn over HTTPS for personal purposes outside this homework. HTTPS uses TLS to secure communication between the browser and web server.
 
-![Task A: HTTPS and public-key cryptography](images/h5-task-a.png)
+![Task A: HTTPS and public-key cryptography](h5-task-a.png)
 
 *Figure 1. Conceptual overview of certificate authentication, key agreement and encrypted HTTPS communication. The boxes illustrate roles, not the precise TLS handshake message order.*
 
@@ -75,7 +75,7 @@ As a telecommunications engineer, I recognize similar principles in IPsec VPNs u
 
 ## b) Encrypt and decrypt a message
 
-![Task B: Alice encrypts and Bob decrypts](images/h5-task-b.png)
+![Task B: Alice encrypts and Bob decrypts](h5-task-b.png)
 
 *Figure 2. Hybrid OpenPGP encryption and the positive and negative decryption tests. The negative test was executed using Alice's keyring; both files were compared locally in the lab.*
 
@@ -162,7 +162,7 @@ Both files had the SHA-256 digest:
 
 I demonstrated Pass, the standard Unix password manager. It stores each credential in a separate GPG-encrypted file.
 
-![Task C: Pass and GPG password manager](images/h5-task-c.png)
+![Task C: Pass and GPG password manager](h5-task-c.png)
 
 *Figure 3. Password generation, encrypted storage and retrieval with Bob's key, and rejection of decryption using Alice's keyring. Paths are relative to the lab directory; the credentials are fictional.*
 
@@ -229,7 +229,7 @@ Pass helps protect credentials but does not eliminate phishing, malware or endpo
 
 ## d) Encrypt and digitally sign a message (voluntary)
 
-![Task D: Alice signs and encrypts, Bob decrypts and verifies](images/h5-task-d.png)
+![Task D: Alice signs and encrypts, Bob decrypts and verifies](h5-task-d.png)
 
 *Figure 4. Mutual key certification, sign-and-encrypt workflow, and the detached-signature tampering test.*
 
